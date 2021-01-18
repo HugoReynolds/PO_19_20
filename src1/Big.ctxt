@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Big
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Big\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=numeroServico\ distanciaMax\ autonomia\ preco\ peso
+comment1.target=Big(int,\ int,\ int,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getClassName()
+comment3.params=
+comment3.target=int\ getPeso()
+comment4.params=ps
+comment4.target=void\ setPeso(int)
+comment5.params=
+comment5.target=Big\ clone()
+numComments=6

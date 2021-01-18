@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Servico
+comment1.params=numeroServico\ distanciaMax\ autonomia\ preco
+comment1.target=Servico(int,\ int,\ int,\ double)
+comment10.params=
+comment10.target=Servico\ clone()
+comment2.params=
+comment2.target=java.lang.String\ getClassName()
+comment3.params=
+comment3.target=int\ getNumeroServico()
+comment4.params=
+comment4.target=int\ getDistanciaMaxima()
+comment5.params=
+comment5.target=double\ getPrecoServico()
+comment6.params=
+comment6.target=int\ getAutonmia()
+comment7.params=distanciamax
+comment7.target=void\ setDistanciaMaxima(int)
+comment8.params=prec
+comment8.target=void\ setPrecoServico(double)
+comment9.params=autonomia
+comment9.target=void\ setAutonomia(int)
+numComments=11

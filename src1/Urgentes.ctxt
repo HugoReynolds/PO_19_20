@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Urgentes
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Urgentes\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=numeroServico\ distanciaMax\ autonomia\ preco\ temp
+comment1.target=Urgentes(int,\ int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getClassName()
+comment3.params=
+comment3.target=double\ getTemperatura()
+comment4.params=temp
+comment4.target=void\ setTemperatura(double)
+comment5.params=
+comment5.target=Urgentes\ clone()
+numComments=6

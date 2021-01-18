@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=email\ nome\ password\ morada\ data\ listv\ lists
+comment1.target=Cliente(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=Cliente\ clone()
+numComments=3

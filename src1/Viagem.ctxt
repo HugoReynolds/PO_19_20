@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Viagem
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Viagem\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=precoF\ distanciaPercorrida\ numeroServico\ distanciaMax\ autonomia\ preco
+comment1.target=Viagem(double,\ double,\ int,\ int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getPrecoF()
+comment3.params=pre
+comment3.target=void\ setPrecoF(double)
+comment4.params=
+comment4.target=double\ getDistanciaPercorrida()
+comment5.params=pre
+comment5.target=void\ setDistanciaPercorrida(double)
+comment6.params=
+comment6.target=Viagem\ clone()
+numComments=7
